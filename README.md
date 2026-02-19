@@ -1,4 +1,4 @@
-# 🏙️ Analyse des données Airbnb à :contentReference[oaicite:1]{index=1}
+# 🏙️ Analyse des données Airbnb à :New York
 
 ## 📌 Description du projet
 Ce projet consiste en une **analyse exploratoire et statistique** du dataset Airbnb de New York.  
